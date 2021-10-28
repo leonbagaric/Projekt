@@ -1,0 +1,14 @@
+C:\Users\Leon\Desktop\repo\Project\DAL\bin\Debug\netcoreapp3.1\DAL.deps.json
+C:\Users\Leon\Desktop\repo\Project\DAL\bin\Debug\netcoreapp3.1\DAL.runtimeconfig.json
+C:\Users\Leon\Desktop\repo\Project\DAL\bin\Debug\netcoreapp3.1\DAL.runtimeconfig.dev.json
+C:\Users\Leon\Desktop\repo\Project\DAL\bin\Debug\netcoreapp3.1\DAL.dll
+C:\Users\Leon\Desktop\repo\Project\DAL\bin\Debug\netcoreapp3.1\DAL.pdb
+C:\Users\Leon\Desktop\repo\Project\DAL\obj\Debug\netcoreapp3.1\DAL.csproj.AssemblyReference.cache
+C:\Users\Leon\Desktop\repo\Project\DAL\obj\Debug\netcoreapp3.1\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leon\Desktop\repo\Project\DAL\obj\Debug\netcoreapp3.1\DAL.AssemblyInfoInputs.cache
+C:\Users\Leon\Desktop\repo\Project\DAL\obj\Debug\netcoreapp3.1\DAL.AssemblyInfo.cs
+C:\Users\Leon\Desktop\repo\Project\DAL\obj\Debug\netcoreapp3.1\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Leon\Desktop\repo\Project\DAL\obj\Debug\netcoreapp3.1\EFCorePluralizer.cs
+C:\Users\Leon\Desktop\repo\Project\DAL\obj\Debug\netcoreapp3.1\DAL.dll
+C:\Users\Leon\Desktop\repo\Project\DAL\obj\Debug\netcoreapp3.1\DAL.pdb
+C:\Users\Leon\Desktop\repo\Project\DAL\obj\Debug\netcoreapp3.1\DAL.genruntimeconfig.cache
